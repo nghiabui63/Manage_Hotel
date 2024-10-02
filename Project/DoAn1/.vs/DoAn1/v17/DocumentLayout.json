@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\DoAn1\\DoAn1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#\\DoAn1\\DoAn1\\frm_QLDSKH.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frm_QLDSKH.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#\\DoAn1\\DoAn1\\frm_QLDSKH.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frm_QLDSKH.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#\\DoAn1\\DoAn1\\frm_CTPDP.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frm_CTPDP.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_QLDSKH.Designer.cs",
+              "DocumentMoniker": "D:\\C#\\DoAn1\\DoAn1\\frm_QLDSKH.Designer.cs",
+              "RelativeDocumentMoniker": "frm_QLDSKH.Designer.cs",
+              "ToolTip": "D:\\C#\\DoAn1\\DoAn1\\frm_QLDSKH.Designer.cs",
+              "RelativeToolTip": "frm_QLDSKH.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgBAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T17:51:27.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_QLDSKH.cs",
+              "DocumentMoniker": "D:\\C#\\DoAn1\\DoAn1\\frm_QLDSKH.cs",
+              "RelativeDocumentMoniker": "frm_QLDSKH.cs",
+              "ToolTip": "D:\\C#\\DoAn1\\DoAn1\\frm_QLDSKH.cs",
+              "RelativeToolTip": "frm_QLDSKH.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T17:51:25.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frm_CTPDP.Designer.cs",
+              "DocumentMoniker": "D:\\C#\\DoAn1\\DoAn1\\frm_CTPDP.Designer.cs",
+              "RelativeDocumentMoniker": "frm_CTPDP.Designer.cs",
+              "ToolTip": "D:\\C#\\DoAn1\\DoAn1\\frm_CTPDP.Designer.cs",
+              "RelativeToolTip": "frm_CTPDP.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T17:50:43.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

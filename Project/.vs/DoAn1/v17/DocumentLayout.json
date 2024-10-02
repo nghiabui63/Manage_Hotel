@@ -1,0 +1,375 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Downloads\\DoAn1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CCE010-0223-443E-A4B0-2C32DA910639}|DoAn1\\DoAn1.csproj|C:\\Users\\ACER\\Downloads\\DoAn1\\doan1\\frm_cthd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CCE010-0223-443E-A4B0-2C32DA910639}|DoAn1\\DoAn1.csproj|solutionrelative:doan1\\frm_cthd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CCE010-0223-443E-A4B0-2C32DA910639}|DoAn1\\DoAn1.csproj|C:\\Users\\ACER\\Downloads\\DoAn1\\doan1\\frm_cthd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0CCE010-0223-443E-A4B0-2C32DA910639}|DoAn1\\DoAn1.csproj|solutionrelative:doan1\\frm_cthd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CCE010-0223-443E-A4B0-2C32DA910639}|DoAn1\\DoAn1.csproj|C:\\Users\\ACER\\Downloads\\DoAn1\\doan1\\frm_hdn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CCE010-0223-443E-A4B0-2C32DA910639}|DoAn1\\DoAn1.csproj|solutionrelative:doan1\\frm_hdn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CCE010-0223-443E-A4B0-2C32DA910639}|DoAn1\\DoAn1.csproj|C:\\Users\\ACER\\Downloads\\DoAn1\\doan1\\frm_hdn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0CCE010-0223-443E-A4B0-2C32DA910639}|DoAn1\\DoAn1.csproj|solutionrelative:doan1\\frm_hdn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CCE010-0223-443E-A4B0-2C32DA910639}|DoAn1\\DoAn1.csproj|C:\\Users\\ACER\\Downloads\\DoAn1\\doan1\\frm_qlhd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CCE010-0223-443E-A4B0-2C32DA910639}|DoAn1\\DoAn1.csproj|solutionrelative:doan1\\frm_qlhd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CCE010-0223-443E-A4B0-2C32DA910639}|DoAn1\\DoAn1.csproj|C:\\Users\\ACER\\Downloads\\DoAn1\\doan1\\frm_qldskh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CCE010-0223-443E-A4B0-2C32DA910639}|DoAn1\\DoAn1.csproj|solutionrelative:doan1\\frm_qldskh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CCE010-0223-443E-A4B0-2C32DA910639}|DoAn1\\DoAn1.csproj|C:\\Users\\ACER\\Downloads\\DoAn1\\doan1\\frm_qldskh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0CCE010-0223-443E-A4B0-2C32DA910639}|DoAn1\\DoAn1.csproj|solutionrelative:doan1\\frm_qldskh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CCE010-0223-443E-A4B0-2C32DA910639}|DoAn1\\DoAn1.csproj|c:\\users\\acer\\downloads\\doan1\\doan1\\frm_qlhd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0CCE010-0223-443E-A4B0-2C32DA910639}|DoAn1\\DoAn1.csproj|solutionrelative:doan1\\frm_qlhd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CCE010-0223-443E-A4B0-2C32DA910639}|DoAn1\\DoAn1.csproj|C:\\Users\\ACER\\Downloads\\DoAn1\\doan1\\frm_qlp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CCE010-0223-443E-A4B0-2C32DA910639}|DoAn1\\DoAn1.csproj|solutionrelative:doan1\\frm_qlp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CCE010-0223-443E-A4B0-2C32DA910639}|DoAn1\\DoAn1.csproj|C:\\Users\\ACER\\Downloads\\DoAn1\\doan1\\frm_qlp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0CCE010-0223-443E-A4B0-2C32DA910639}|DoAn1\\DoAn1.csproj|solutionrelative:doan1\\frm_qlp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CCE010-0223-443E-A4B0-2C32DA910639}|DoAn1\\DoAn1.csproj|C:\\Users\\ACER\\Downloads\\DoAn1\\doan1\\frm_qlnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CCE010-0223-443E-A4B0-2C32DA910639}|DoAn1\\DoAn1.csproj|solutionrelative:doan1\\frm_qlnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CCE010-0223-443E-A4B0-2C32DA910639}|DoAn1\\DoAn1.csproj|C:\\Users\\ACER\\Downloads\\DoAn1\\doan1\\frm_qlnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0CCE010-0223-443E-A4B0-2C32DA910639}|DoAn1\\DoAn1.csproj|solutionrelative:doan1\\frm_qlnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CCE010-0223-443E-A4B0-2C32DA910639}|DoAn1\\DoAn1.csproj|C:\\Users\\ACER\\Downloads\\DoAn1\\doan1\\frm_qldv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CCE010-0223-443E-A4B0-2C32DA910639}|DoAn1\\DoAn1.csproj|solutionrelative:doan1\\frm_qldv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CCE010-0223-443E-A4B0-2C32DA910639}|DoAn1\\DoAn1.csproj|C:\\Users\\ACER\\Downloads\\DoAn1\\doan1\\frm_qldv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0CCE010-0223-443E-A4B0-2C32DA910639}|DoAn1\\DoAn1.csproj|solutionrelative:doan1\\frm_qldv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CCE010-0223-443E-A4B0-2C32DA910639}|DoAn1\\DoAn1.csproj|C:\\Users\\ACER\\Downloads\\DoAn1\\doan1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CCE010-0223-443E-A4B0-2C32DA910639}|DoAn1\\DoAn1.csproj|solutionrelative:doan1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CCE010-0223-443E-A4B0-2C32DA910639}|DoAn1\\DoAn1.csproj|C:\\Users\\ACER\\Downloads\\DoAn1\\doan1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0CCE010-0223-443E-A4B0-2C32DA910639}|DoAn1\\DoAn1.csproj|solutionrelative:doan1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CCE010-0223-443E-A4B0-2C32DA910639}|DoAn1\\DoAn1.csproj|C:\\Users\\ACER\\Downloads\\DoAn1\\doan1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CCE010-0223-443E-A4B0-2C32DA910639}|DoAn1\\DoAn1.csproj|solutionrelative:doan1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CCE010-0223-443E-A4B0-2C32DA910639}|DoAn1\\DoAn1.csproj|C:\\Users\\ACER\\Downloads\\DoAn1\\doan1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0CCE010-0223-443E-A4B0-2C32DA910639}|DoAn1\\DoAn1.csproj|solutionrelative:doan1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CCE010-0223-443E-A4B0-2C32DA910639}|DoAn1\\DoAn1.csproj|C:\\Users\\ACER\\Downloads\\DoAn1\\doan1\\frm_tt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CCE010-0223-443E-A4B0-2C32DA910639}|DoAn1\\DoAn1.csproj|solutionrelative:doan1\\frm_tt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CCE010-0223-443E-A4B0-2C32DA910639}|DoAn1\\DoAn1.csproj|C:\\Users\\ACER\\Downloads\\DoAn1\\doan1\\frm_tt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0CCE010-0223-443E-A4B0-2C32DA910639}|DoAn1\\DoAn1.csproj|solutionrelative:doan1\\frm_tt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CCE010-0223-443E-A4B0-2C32DA910639}|DoAn1\\DoAn1.csproj|C:\\Users\\ACER\\Downloads\\DoAn1\\doan1\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B0CCE010-0223-443E-A4B0-2C32DA910639}|DoAn1\\DoAn1.csproj|solutionrelative:doan1\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 144,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 331,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frm_QLDSKH.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\DoAn1\\DoAn1\\frm_QLDSKH.cs",
+              "RelativeDocumentMoniker": "DoAn1\\frm_QLDSKH.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\DoAn1\\DoAn1\\frm_QLDSKH.cs [Design]",
+              "RelativeToolTip": "DoAn1\\frm_QLDSKH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:11:32.085Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frm_QLDSKH.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\DoAn1\\DoAn1\\frm_QLDSKH.cs",
+              "RelativeDocumentMoniker": "DoAn1\\frm_QLDSKH.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\DoAn1\\DoAn1\\frm_QLDSKH.cs",
+              "RelativeToolTip": "DoAn1\\frm_QLDSKH.cs",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAUwMcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T15:21:53.42Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_CTHD.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\DoAn1\\DoAn1\\frm_CTHD.cs",
+              "RelativeDocumentMoniker": "DoAn1\\frm_CTHD.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\DoAn1\\DoAn1\\frm_CTHD.cs",
+              "RelativeToolTip": "DoAn1\\frm_CTHD.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAWwGgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T10:05:47.752Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frm_QLHD.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\DoAn1\\DoAn1\\frm_QLHD.cs",
+              "RelativeDocumentMoniker": "DoAn1\\frm_QLHD.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\DoAn1\\DoAn1\\frm_QLHD.cs [Design]*",
+              "RelativeToolTip": "DoAn1\\frm_QLHD.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T15:08:19.153Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frm_QLHD.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\DoAn1\\DoAn1\\frm_QLHD.cs",
+              "RelativeDocumentMoniker": "DoAn1\\frm_QLHD.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\DoAn1\\DoAn1\\frm_QLHD.cs*",
+              "RelativeToolTip": "DoAn1\\frm_QLHD.cs*",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:07:58.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frm_HDN.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\DoAn1\\DoAn1\\frm_HDN.cs",
+              "RelativeDocumentMoniker": "DoAn1\\frm_HDN.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\DoAn1\\DoAn1\\frm_HDN.cs [Design]",
+              "RelativeToolTip": "DoAn1\\frm_HDN.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:00:25.85Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frm_HDN.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\DoAn1\\DoAn1\\frm_HDN.cs",
+              "RelativeDocumentMoniker": "DoAn1\\frm_HDN.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\DoAn1\\DoAn1\\frm_HDN.cs",
+              "RelativeToolTip": "DoAn1\\frm_HDN.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAjwFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:02:40.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_CTHD.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\DoAn1\\DoAn1\\frm_CTHD.cs",
+              "RelativeDocumentMoniker": "DoAn1\\frm_CTHD.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\DoAn1\\DoAn1\\frm_CTHD.cs [Design]",
+              "RelativeToolTip": "DoAn1\\frm_CTHD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:47:22.124Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frm_QLP.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\DoAn1\\DoAn1\\frm_QLP.cs",
+              "RelativeDocumentMoniker": "DoAn1\\frm_QLP.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\DoAn1\\DoAn1\\frm_QLP.cs",
+              "RelativeToolTip": "DoAn1\\frm_QLP.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAADwv5EAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T14:20:00.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frm_QLNV.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\DoAn1\\DoAn1\\frm_QLNV.cs",
+              "RelativeDocumentMoniker": "DoAn1\\frm_QLNV.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\DoAn1\\DoAn1\\frm_QLNV.cs",
+              "RelativeToolTip": "DoAn1\\frm_QLNV.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAIwLAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T14:19:07.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frm_QLP.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\DoAn1\\DoAn1\\frm_QLP.cs",
+              "RelativeDocumentMoniker": "DoAn1\\frm_QLP.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\DoAn1\\DoAn1\\frm_QLP.cs [Design]",
+              "RelativeToolTip": "DoAn1\\frm_QLP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T14:09:15.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frm_QLNV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\DoAn1\\DoAn1\\frm_QLNV.cs",
+              "RelativeDocumentMoniker": "DoAn1\\frm_QLNV.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\DoAn1\\DoAn1\\frm_QLNV.cs [Design]",
+              "RelativeToolTip": "DoAn1\\frm_QLNV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:29:39.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frm_QLDV.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\DoAn1\\DoAn1\\frm_QLDV.cs",
+              "RelativeDocumentMoniker": "DoAn1\\frm_QLDV.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\DoAn1\\DoAn1\\frm_QLDV.cs",
+              "RelativeToolTip": "DoAn1\\frm_QLDV.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAUwKcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T06:18:07.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frm_QLDV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\DoAn1\\DoAn1\\frm_QLDV.cs",
+              "RelativeDocumentMoniker": "DoAn1\\frm_QLDV.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\DoAn1\\DoAn1\\frm_QLDV.cs [Design]",
+              "RelativeToolTip": "DoAn1\\frm_QLDV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T06:04:36.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\DoAn1\\DoAn1\\Menu.cs",
+              "RelativeDocumentMoniker": "DoAn1\\Menu.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\DoAn1\\DoAn1\\Menu.cs",
+              "RelativeToolTip": "DoAn1\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:52:53.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\DoAn1\\DoAn1\\Menu.cs",
+              "RelativeDocumentMoniker": "DoAn1\\Menu.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\DoAn1\\DoAn1\\Menu.cs [Design]",
+              "RelativeToolTip": "DoAn1\\Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:18:33.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\DoAn1\\DoAn1\\Login.cs",
+              "RelativeDocumentMoniker": "DoAn1\\Login.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\DoAn1\\DoAn1\\Login.cs",
+              "RelativeToolTip": "DoAn1\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T15:09:57.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\DoAn1\\DoAn1\\Login.cs",
+              "RelativeDocumentMoniker": "DoAn1\\Login.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\DoAn1\\DoAn1\\Login.cs [Design]",
+              "RelativeToolTip": "DoAn1\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T15:09:56.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frm_TT.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\DoAn1\\DoAn1\\frm_TT.cs",
+              "RelativeDocumentMoniker": "DoAn1\\frm_TT.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\DoAn1\\DoAn1\\frm_TT.cs [Design]",
+              "RelativeToolTip": "DoAn1\\frm_TT.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:49:59.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frm_TT.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\DoAn1\\DoAn1\\frm_TT.cs",
+              "RelativeDocumentMoniker": "DoAn1\\frm_TT.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\DoAn1\\DoAn1\\frm_TT.cs",
+              "RelativeToolTip": "DoAn1\\frm_TT.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwDIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:55:01.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\DoAn1\\DoAn1\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "DoAn1\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\DoAn1\\DoAn1\\Properties\\Resources.resx",
+              "RelativeToolTip": "DoAn1\\Properties\\Resources.resx",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAiwH0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-26T15:09:25.655Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 244,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
